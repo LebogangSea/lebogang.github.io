@@ -1,0 +1,43 @@
+h1 {
+    color:green;
+}
+h2 {
+    color:blue;
+}
+h3 {
+    color:green
+}
+h4 {
+    color:blue
+}body{
+background-color: #ffcdfe;
+}
+p {
+    color: black;
+}
+
+.logo-right-side {
+text-align:  center;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-text-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.subsection{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
